@@ -1,0 +1,10 @@
+# Guru zamecnicka pohotovost 117
+> Portal de blog culinario ubicado en Barcelona, Cataluña.
+
+## Contenido del sitio
+- [Inicio](/index.html): Resumen de publicaciones.
+- [Sobre nosotros](/about.html): Quiénes somos y qué hacemos.
+- [Contacto](/contact.html): Ubicación y formulario.
+## Publicaciones
+- [Claves para optimizar la productividad de equipos remotos](/claves-para-optimizar-la-productividad-de-equipos-remotos.html)
+- [Cómo elegir la mejor parrilla de contacto para su cocina](/como-elegir-la-mejor-parrilla-de-contacto-para-su-cocina.html)
